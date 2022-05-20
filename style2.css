@@ -1,0 +1,18 @@
+.jumbotron {
+  background-color: #f4511e;
+  padding: 40px 25px;
+}
+
+.jumbotron > .container > .title {
+  font-size: 40px;
+  color: white;
+}
+
+.jumbotron > .container > .subtitle {
+  font-size: 20px;
+  color: white;
+}
+
+.done {
+  text-decoration: line-through;
+}
